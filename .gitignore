@@ -183,3 +183,4 @@ TSWLatexianTemp*
 *.DS_Store
 *.pdf
 papers/*
+figures/*
